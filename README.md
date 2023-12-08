@@ -15,15 +15,17 @@ Welcome to the Building Management System, a web application built with the MERN
 - React-router
 - React-Query
 - TailwindCSS
+- Framer motion
 - NodeJS
 - ExpressJS
+- JsonWebtoken
 - MongoDB
 
 
-Live app link: [https://daily-chickens.surge.sh/](https://daily-chickens.surge.sh/)
-Admin email: rafikk1998@gmail.com
-Admin password: Asd123!
+Live app link: [https://daily-chickens.surge.sh](https://daily-chickens.surge.sh) <br>
+Admin email: rafikk1998@gmail.com <br>
+Admin password: Asd123! <br>
 Repository links:
-- Client side repository: [https://github.com/programming-hero-web-course1/b8a12-client-side-RafiKK98](https://github.com/programming-hero-web-course1/b8a12-client-side-RafiKK98) 
-- Server side repository: [https://github.com/programming-hero-web-course1/b8a12-server-side-RafiKK98](https://github.com/programming-hero-web-course1/b8a12-server-side-RafiKK98)
+- Client side repository: [https://github.com/RafiKK98/mern-building-managemet-app-client](https://github.com/RafiKK98/mern-building-managemet-app-client) 
+- Server side repository: [https://github.com/RafiKK98/mern-building-managemet-app-server](https://github.com/RafiKK98/mern-building-managemet-app-server)
 
