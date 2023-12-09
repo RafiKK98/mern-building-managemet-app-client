@@ -20,6 +20,7 @@ Welcome to the Building Management System, a web application built with the MERN
 - ExpressJS
 - JsonWebtoken
 - MongoDB
+- Stripe
 
 
 Live app link: [https://daily-chickens.surge.sh](https://daily-chickens.surge.sh) <br>
